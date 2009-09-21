@@ -1,5 +1,5 @@
 TARGETS = %w[
-  # not yet
+  plugin/less.vim
 ]
 
 #desc 'install'
